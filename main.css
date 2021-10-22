@@ -1,0 +1,5 @@
+/*ADD MARGIN auto to left and right*/
+.box1{
+    width:80%;
+    margin:0 auto;
+}
